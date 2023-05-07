@@ -8,13 +8,13 @@ Esta disciplina é ministrada pelo professor Daniel Roberto Cassar no curso de C
 
 <details>
 
-<summary>Redes Neurais :brain:</summary>
+    <summary><b>Redes Neurais</b> :brain:</summary>
     São estruturas inspiradas no cérebro humano, imitando a maneira como os neurônios biológicos sinalizam uns aos outros. As redes neurais são compostas por camadas de nós, contendo uma camada de entrada, uma ou mais camadas ocultas e uma camada de saída. Cada nó, ou neurônio artificial, se conecta a outro e tem um peso e limite associados. Se a saída de qualquer nó individual estiver acima do valor limite especificado, esse nó é ativado, enviando dados para a próxima camada da rede. Caso contrário, nenhum dado é repassado para a próxima camada da rede. As redes neurais dependem de dados de treinamento para aprender e melhorar sua precisão ao longo do tempo. No entanto, uma vez que esses algoritmos de aprendizado são ajustados para precisão, eles são ferramentas poderosas em ciência da computação e inteligência artificial, permitindo classificar e agrupar dados em alta velocidade[^1].
 </details>
 
 <details>
 
-<summary>Algoritmos Genéticos :dna:</summary>
+    <summary><b>Algoritmos Genéticos</b> :dna:</summary>
     Os algoritmos genéticos são uma família de algoritmos de busca inspirados nos princípios da evolução da natureza. Ao simular o processo de seleção natural e reprodução, eles são capazes de gerar soluções de alta qualidade para diversos problemas relacionados à busca, otimização e aprendizado. A sua analogia com a evolução natural permite que os algoritmos genéticos superem os desafios encontrados pelos algoritmos de busca e otimização convencionais, principalmente em problemas com uma grande quantidade de parâmetros e representações matemáticas complexas[^2].
 </details>
 
