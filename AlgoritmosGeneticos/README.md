@@ -1,4 +1,5 @@
-<img src="logo_algoritmo_genetico2.PNG" style="width:450px;height:150px"/>
+<h1 align="center"> <img src="logo_algoritmo_genetico2.PNG" style="width:450px;height:150px"/> 
+</h1>
 
 Coloque seus experimentos de algoritmos genéticos nesta pasta.
 
