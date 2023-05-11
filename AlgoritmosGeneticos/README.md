@@ -25,4 +25,4 @@ __<summary>Exemplos de problemas do mundo real que podem ser resolvidos usando a
     
 Alguns exemplos incluem otimizar o projeto de componentes mecânicos, agendar tarefas em processos de fabricação, projetar redes neurais para reconhecimento de padrões e otimizar o posicionamento de torres de celular em uma rede sem fio. Algoritmos genéticos também podem ser usados em modelagem financeira, processamento de imagem e mineração de dados.
     
-<details>
+</details>
