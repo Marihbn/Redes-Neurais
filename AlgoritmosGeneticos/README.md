@@ -1,7 +1,7 @@
 <h1 align="center"> <img src="logo_algoritmo_genetico2.PNG" style="width:530px;height:200px"/> 
 </h1>
 
-## Introdução
+## Introdução :dna:
 
 <details>
     
