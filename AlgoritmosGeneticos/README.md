@@ -29,7 +29,6 @@ Alguns exemplos incluem otimizar o projeto de componentes mecânicos, agendar ta
 
     
 ## Glossário :page_with_curl:
-<details>
     
 - __Indivíduos:__ Em algoritmos genéticos, os indivíduos são soluções potenciais para um problema. Cada indivíduo é representado por um cromossomo, que contém genes que codificam características ou traços específicos.
 
@@ -49,4 +48,3 @@ Alguns exemplos incluem otimizar o projeto de componentes mecânicos, agendar ta
 
 - __Mutação:__ A mutação envolve a alteração aleatória de um ou mais genes no cromossomo de um indivíduo. Esse processo pode ajudar a introduzir novos traços na população que podem levar a melhores soluções.
     
-</details>
