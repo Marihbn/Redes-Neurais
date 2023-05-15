@@ -27,7 +27,10 @@ Alguns exemplos incluem otimizar o projeto de componentes mecânicos, agendar ta
     
 </details>
 
+    
 ## Glossário :page_with_curl:
+<details>
+    
 - __Indivíduos:__ Em algoritmos genéticos, os indivíduos são soluções potenciais para um problema. Cada indivíduo é representado por um cromossomo, que contém genes que codificam características ou traços específicos.
 
 - __População:__ Uma população é uma coleção de indivíduos que são avaliados e evoluídos ao longo do tempo. A população representa a geração atual de soluções potenciais.
@@ -45,3 +48,5 @@ Alguns exemplos incluem otimizar o projeto de componentes mecânicos, agendar ta
 - __Cruzamento:__ O cruzamento envolve a combinação de dois cromossomos parentais para criar um ou mais cromossomos filhos. Esse processo pode ajudar a criar novas combinações de genes que podem levar a melhores soluções.
 
 - __Mutação:__ A mutação envolve a alteração aleatória de um ou mais genes no cromossomo de um indivíduo. Esse processo pode ajudar a introduzir novos traços na população que podem levar a melhores soluções.
+    
+</details>
