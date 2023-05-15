@@ -35,23 +35,23 @@ Alguns exemplos incluem otimizar o projeto de componentes mecânicos, agendar ta
 __<summary>Glossário :page_with_curl:</summary>__
     
     
-- __*Indivíduos:*__ Em algoritmos genéticos, os indivíduos são soluções potenciais para um problema. Cada indivíduo é representado por um cromossomo, que contém genes que codificam características ou traços específicos.
+- __*Indivíduos*:__ Em algoritmos genéticos, os indivíduos são soluções potenciais para um problema. Cada indivíduo é representado por um cromossomo, que contém genes que codificam características ou traços específicos.
 
-- __*População:*__ Uma população é uma coleção de indivíduos que são avaliados e evoluídos ao longo do tempo. A população representa a geração atual de soluções potenciais.
+- __*População*:__ Uma população é uma coleção de indivíduos que são avaliados e evoluídos ao longo do tempo. A população representa a geração atual de soluções potenciais.
 
-- __Gene:__ Um gene é uma seção específica de um cromossomo que codifica um traço ou característica particular. Por exemplo, em um algoritmo genético para otimizar o design de uma asa de avião, um gene pode representar o ângulo no qual a asa está inclinada.
+- __*Gene*:__ Um gene é uma seção específica de um cromossomo que codifica um traço ou característica particular. Por exemplo, em um algoritmo genético para otimizar o design de uma asa de avião, um gene pode representar o ângulo no qual a asa está inclinada.
 
-- __Cromossomos:__ Um cromossomo é uma sequência de genes que representa uma solução individual para o problema em questão. Em algoritmos genéticos codificados em binário, os cromossomos são geralmente representados como sequências de 0s e 1s.
+- __*Cromossomos*:__ Um cromossomo é uma sequência de genes que representa uma solução individual para o problema em questão. Em algoritmos genéticos codificados em binário, os cromossomos são geralmente representados como sequências de 0s e 1s.
 
-- __Geração:__ Uma geração refere-se a uma iteração do algoritmo genético. Durante cada geração, a função de aptidão é aplicada para avaliar os indivíduos da população, e novos indivíduos são criados por meio de seleção, cruzamento e mutação.
+- __*Geração*:__ Uma geração refere-se a uma iteração do algoritmo genético. Durante cada geração, a função de aptidão é aplicada para avaliar os indivíduos da população, e novos indivíduos são criados por meio de seleção, cruzamento e mutação.
 
-- __Função de objetivo:__ A função de aptidão é usada para avaliar o quão bem cada indivíduo da população resolve o problema em questão. Ela atribui uma pontuação de aptidão a cada indivíduo com base em quão próximo sua solução está de ser ótima.
+- __*Função de objetivo*:__ A função de aptidão é usada para avaliar o quão bem cada indivíduo da população resolve o problema em questão. Ela atribui uma pontuação de aptidão a cada indivíduo com base em quão próximo sua solução está de ser ótima.
 
-- __Seleção:__ A seleção é o processo pelo qual os indivíduos com pontuações de aptidão mais altas têm maior probabilidade de serem escolhidos para reprodução (ou seja, passar seus genes adiante) do que aqueles com pontuações de aptidão mais baixas.
+- __*Seleção*:__ A seleção é o processo pelo qual os indivíduos com pontuações de aptidão mais altas têm maior probabilidade de serem escolhidos para reprodução (ou seja, passar seus genes adiante) do que aqueles com pontuações de aptidão mais baixas.
 
-- __Cruzamento:__ O cruzamento envolve a combinação de dois cromossomos parentais para criar um ou mais cromossomos filhos. Esse processo pode ajudar a criar novas combinações de genes que podem levar a melhores soluções.
+- __*Cruzamento*:__ O cruzamento envolve a combinação de dois cromossomos parentais para criar um ou mais cromossomos filhos. Esse processo pode ajudar a criar novas combinações de genes que podem levar a melhores soluções.
 
-- __Mutação:__ A mutação envolve a alteração aleatória de um ou mais genes no cromossomo de um indivíduo. Esse processo pode ajudar a introduzir novos traços na população que podem levar a melhores soluções.
+- __*Mutação*:__ A mutação envolve a alteração aleatória de um ou mais genes no cromossomo de um indivíduo. Esse processo pode ajudar a introduzir novos traços na população que podem levar a melhores soluções.
 
 </details>
 
