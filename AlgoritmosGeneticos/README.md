@@ -31,7 +31,9 @@ Alguns exemplos incluem otimizar o projeto de componentes mecânicos, agendar ta
 ## Conteúdo :card_index_dividers:
 
 <details>
+    
 __<summary>Glossário :page_with_curl:</summary>__
+    
     
 - __Indivíduos:__ Em algoritmos genéticos, os indivíduos são soluções potenciais para um problema. Cada indivíduo é representado por um cromossomo, que contém genes que codificam características ou traços específicos.
 
