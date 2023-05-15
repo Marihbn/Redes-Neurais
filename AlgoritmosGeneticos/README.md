@@ -35,9 +35,9 @@ Alguns exemplos incluem otimizar o projeto de componentes mecânicos, agendar ta
 __<summary>Glossário :page_with_curl:</summary>__
     
     
-- __Indivíduos:__ Em algoritmos genéticos, os indivíduos são soluções potenciais para um problema. Cada indivíduo é representado por um cromossomo, que contém genes que codificam características ou traços específicos.
+- __*Indivíduos:*__ Em algoritmos genéticos, os indivíduos são soluções potenciais para um problema. Cada indivíduo é representado por um cromossomo, que contém genes que codificam características ou traços específicos.
 
-- __População:__ Uma população é uma coleção de indivíduos que são avaliados e evoluídos ao longo do tempo. A população representa a geração atual de soluções potenciais.
+- __*População:*__ Uma população é uma coleção de indivíduos que são avaliados e evoluídos ao longo do tempo. A população representa a geração atual de soluções potenciais.
 
 - __Gene:__ Um gene é uma seção específica de um cromossomo que codifica um traço ou característica particular. Por exemplo, em um algoritmo genético para otimizar o design de uma asa de avião, um gene pode representar o ângulo no qual a asa está inclinada.
 
