@@ -47,4 +47,6 @@ Alguns exemplos incluem otimizar o projeto de componentes mecânicos, agendar ta
 - __Cruzamento:__ O cruzamento envolve a combinação de dois cromossomos parentais para criar um ou mais cromossomos filhos. Esse processo pode ajudar a criar novas combinações de genes que podem levar a melhores soluções.
 
 - __Mutação:__ A mutação envolve a alteração aleatória de um ou mais genes no cromossomo de um indivíduo. Esse processo pode ajudar a introduzir novos traços na população que podem levar a melhores soluções.
+
+## Conteúdo :card_index_dividers:
     
