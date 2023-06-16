@@ -3,7 +3,7 @@
 ![LICENSE](https://img.shields.io/badge/LICENSE-GNU%20General%20Public%20License%20v3.0-blue)
 
 ## Introdução
-Bem-vinde ao repositório da disciplina de Redes Neurais e Algoritmos Genéticos!
+Bem-vindo ao repositório da disciplina de Redes Neurais e Algoritmos Genéticos!
 Esta disciplina é ministrada pelo professor Daniel Roberto Cassar no curso de Ciência e Técnologia na Ilum - Escola de Ciência, e tem como objetivo apresentar conceitos fundamentais sobre redes neurais e algoritmos genéticos por meio de experimentos realizados durante e fora das aulas.
 
 <details>
